@@ -1,0 +1,7 @@
+{
+  "name": "CivEngineering - Pro Toolkit",
+  "description": "A comprehensive suite of civil engineering tools including material estimators, cost calculators, structural design aids, and unit converters.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
